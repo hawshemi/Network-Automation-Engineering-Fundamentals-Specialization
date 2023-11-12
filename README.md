@@ -7,7 +7,7 @@
 
 ### 1. [Introduction to Network Automation](https://www.coursera.org/learn/introduction-to-network-automation?specialization=networkautomation)
 
-####    **Certificate:** 
+####    **Certificate:** _https://www.coursera.org/account/accomplishments/verify/NFRXM9U3YS8B_
 #
 
 ### 2. [Using APIs for Network Automation](https://www.coursera.org/learn/using-apis-for-network-automation?specialization=networkautomation)
