@@ -12,7 +12,7 @@
 
 ### 2. [Using APIs for Network Automation](https://www.coursera.org/learn/using-apis-for-network-automation?specialization=networkautomation)
 
-####    **Certificate:** 
+####    **Certificate:** _https://www.coursera.org/account/accomplishments/verify/TBUUPNLV49XF_
 #
 
 ### 3. [Ansible for Network Automation](https://www.coursera.org/learn/ansible-for-network-automation?specialization=networkautomation)
