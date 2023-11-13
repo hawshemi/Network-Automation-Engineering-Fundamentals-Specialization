@@ -2,7 +2,7 @@
 
 
 ## [Network Automation Engineering Fundamentals Specialization](https://www.coursera.org/specializations/networkautomation)
-####    **Certificate:** 
+####    **Certificate:** _https://www.coursera.org/account/accomplishments/specialization/2JNKR4B6ZBSJ_
 #
 
 ### 1. [Introduction to Network Automation](https://www.coursera.org/learn/introduction-to-network-automation?specialization=networkautomation)
@@ -17,17 +17,17 @@
 
 ### 3. [Ansible for Network Automation](https://www.coursera.org/learn/ansible-for-network-automation?specialization=networkautomation)
 
-####    **Certificate:** 
+####    **Certificate:** _https://www.coursera.org/account/accomplishments/verify/P9ZH7KL5JC85_
 #
 
 ### 4. [DevOps for Network Automation (NetDevOps)](https://www.coursera.org/learn/devops-for-network-automation-netdevops?specialization=networkautomation)
 
-####    **Certificate:** 
+####    **Certificate:** _https://www.coursera.org/account/accomplishments/verify/7C2GCBSHNV2H_
 #
 
 ### 5. [Introducing Model-Driven Programmability](https://www.coursera.org/learn/introducing-model-driven-programmability?specialization=networkautomation)
 
-####    **Certificate:** 
+####    **Certificate:** _https://www.coursera.org/account/accomplishments/verify/F7Y4AEG5P4KD_
 #
 
 
