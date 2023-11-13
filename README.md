@@ -17,7 +17,7 @@
 
 ### 3. [Ansible for Network Automation](https://www.coursera.org/learn/ansible-for-network-automation?specialization=networkautomation)
 
-####    **Certificate:** 
+####    **Certificate:** _https://www.coursera.org/account/accomplishments/verify/P9ZH7KL5JC85_
 #
 
 ### 4. [DevOps for Network Automation (NetDevOps)](https://www.coursera.org/learn/devops-for-network-automation-netdevops?specialization=networkautomation)
