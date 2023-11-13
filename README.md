@@ -2,7 +2,7 @@
 
 
 ## [Network Automation Engineering Fundamentals Specialization](https://www.coursera.org/specializations/networkautomation)
-####    **Certificate:** 
+####    **Certificate:** _https://www.coursera.org/account/accomplishments/specialization/2JNKR4B6ZBSJ_
 #
 
 ### 1. [Introduction to Network Automation](https://www.coursera.org/learn/introduction-to-network-automation?specialization=networkautomation)
