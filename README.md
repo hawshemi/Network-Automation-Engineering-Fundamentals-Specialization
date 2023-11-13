@@ -22,7 +22,7 @@
 
 ### 4. [DevOps for Network Automation (NetDevOps)](https://www.coursera.org/learn/devops-for-network-automation-netdevops?specialization=networkautomation)
 
-####    **Certificate:** 
+####    **Certificate:** _https://www.coursera.org/account/accomplishments/verify/7C2GCBSHNV2H_
 #
 
 ### 5. [Introducing Model-Driven Programmability](https://www.coursera.org/learn/introducing-model-driven-programmability?specialization=networkautomation)
